@@ -1,0 +1,15 @@
+* { background-color : aliceblue; }
+h3 { color : green; }
+p { font-size: 13pt;
+    font-style: italic;
+    color : blue; }
+.ta {color: magenta;}
+.tb {background-color: mistyrose;}
+.tc { background-color: gold;
+      color: red;
+      font-weight: bold; }
+.td { text-indent: 3em;
+      font-family: 'Times New Roman';
+      font-size: 1.5em; 
+      color: black;
+      text-align: center; }
